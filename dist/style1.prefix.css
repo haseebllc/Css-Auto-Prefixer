@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* h1  */
+
+.h1 {
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+    text-indent: 0%;
+}
