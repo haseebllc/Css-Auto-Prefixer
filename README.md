@@ -60,3 +60,8 @@ cssFiles.forEach((file) => {
         .catch((err) => console.error(err));
 });
 ```
+
+## 5. add vender-prefixes using  
+```bash
+npm run prefix
+```
